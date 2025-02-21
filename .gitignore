@@ -1,0 +1,14 @@
+__pycache__/
+*.sav
+*.npz
+**/data
+**/.ipynb_checkpoints
+**/.csv
+
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
